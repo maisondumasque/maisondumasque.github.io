@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"main.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n",
+		"$backgroundColor: #ffffff;\n$bodyColor: #000000;\n$bodyFont: -apple-system,BlinkMacSystemFont,\"Segoe UI\",Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\";\n\nbody {\n  background: $backgroundColor;\n  color: $bodyColor;\n  font-family: $bodyFont;\n}\n\n#main {\n  width: 600px;\n  margin: auto;\n  margin-top: 20px;\n  border: solid 1px gray;\n  box-shadow: 4px 4px lightgray;\n  text-align: center;\n}"
+	],
+	"names": [],
+	"mappings": "ACIA,AAAA,IAAI,CAAC,EACH,UAAU,EALM,OAAO,EAMvB,KAAK,EALK,OAAO,EAMjB,WAAW,EALF,aAAa,EAAC,kBAAkB,EAAC,UAAU,EAAC,SAAS,EAAC,KAAK,EAAC,UAAU,EAAC,mBAAmB,EAAC,gBAAgB,EAAC,iBAAiB,GAMvI;;AAED,AAAA,KAAK,CAAC,EACJ,KAAK,EAAE,KAAK,EACZ,MAAM,EAAE,IAAI,EACZ,UAAU,EAAE,IAAI,EAChB,MAAM,EAAE,cAAc,EACtB,UAAU,EAAE,iBAAiB,EAC7B,UAAU,EAAE,MAAM,GACnB"
+}
